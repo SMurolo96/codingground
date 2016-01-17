@@ -1,0 +1,3 @@
+
+void HelloWorld();
+int LeggiFile();
